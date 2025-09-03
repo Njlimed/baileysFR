@@ -1,4 +1,85 @@
 {
+  "name": "@adiwajshing/baileys",
+  "version": "6.7.17",
+  "description": "A lightweight full-featured WhatsApp Web + Multi-Device API",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/",
+    "WAProto/",
+    "WASignalGroup/",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "api",
+    "bot"
+  ],
+  "author": "Adiwajshing",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "pino": "^7.0.0"
+  },
+  "scripts": {}
+}
+{
+  "name": "@adiwajshing/baileys",
+  "version": "6.7.17",
+  "description": "A lightweight full-featured WhatsApp Web + Multi-Device API",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/",
+    "WAProto/",
+    "WASignalGroup/",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "api",
+    "bot"
+  ],
+  "author": "Adiwajshing",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "pino": "^7.0.0"
+  },
+  "scripts": {}
+}
+{
+  "name": "@adiwajshing/baileys",
+  "version": "6.7.17",
+  "description": "A lightweight full-featured WhatsApp Web + Multi-Device API",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/",
+    "WAProto/",
+    "WASignalGroup/",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "api",
+    "bot"
+  ],
+  "author": "Adiwajshing",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "pino": "^7.0.0"
+  },
+  "scripts": {}
+}
+{
   "name": "baileys",
   "version": "6.7.17",
   "description": "A WebSockets library for interacting with WhatsApp Web",
